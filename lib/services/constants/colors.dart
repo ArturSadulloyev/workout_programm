@@ -7,5 +7,7 @@ sealed class CustomColors{
 
   static const black = Colors.black;
   static const white = Colors.white;
+    static const checkpagebackcolor =Color(0xff212227);
+     static const  codes4digit=Color(0xffE7E7F6);
 
 }
